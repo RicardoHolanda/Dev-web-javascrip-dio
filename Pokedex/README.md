@@ -1,2 +1,2 @@
-# Dev-web-javascrip-dio
-Repositório com os exercícios de desenvolvimento web utilizando javascript da DIO.
+# Projeto POKEDEX
+Neste projeto está sendo construido uma pokedex utilizando html, css e javascript. 
